@@ -1,6 +1,10 @@
 # Docker Kata 005
 ## Build a System
 
+# DEPRECATED
+
+see common repository at https://github.com/anonymuse/docker_kata
+
 This is the repository for the Docker Kata 005 published on [Medium.com](http://medium.com/). This story can be found at this url: "[Docker Kata 005: Build a System](https://medium.com/contino-io/docker-kata-005-ac8429082f6c)".
 
 ### Snippet
